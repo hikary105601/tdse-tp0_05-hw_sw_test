@@ -1,0 +1,20 @@
+tipos de datos
+
+
+estructuras de datos
+
+
+arrays de estructuras de datos
+
+
+métodos
+
+
+patrones de diseño de software
+
+
+
+etc
+
+
+Este archivo inicializa el stack pointer, el program counter, los vector tables y todo lo necesario para que correr el main()

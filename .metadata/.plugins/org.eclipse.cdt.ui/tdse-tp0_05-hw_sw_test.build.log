@@ -1,0 +1,10 @@
+20:59:34 **** Incremental Build of configuration Debug for project tdse-tp0_05-hw_sw_test ****
+make -j4 all 
+arm-none-eabi-size   tdse-tp0_05-hw_sw_test.elf 
+   text	   data	    bss	    dec	    hex	filename
+  21556	    148	   3060	  24764	   60bc	tdse-tp0_05-hw_sw_test.elf
+Finished building: default.size.stdout
+ 
+
+20:59:35 Build Finished. 0 errors, 0 warnings. (took 968ms)
+
